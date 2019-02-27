@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-code-push": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    }
+  },
+  "dependent_plugins": {
+    "code-push": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.yeming.hotupdatetest"
+    }
+  }
+}
